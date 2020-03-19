@@ -1,0 +1,2 @@
+insert into tipo_paquete(nombre, interno) values('SOBRE', 1), ('VALIJA', 1);
+insert into paquete(codigo, en_uso, tipo_paquete_id) values('S000001', 0, 1), ('S000002', 0, 1), ('S000003', 0, 1),  ('S000004', 0, 1);
